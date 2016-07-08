@@ -1,0 +1,28 @@
+name: Get Sportay
+favicon: null
+layout_spectrum: 0.5341099912766367
+typography_spectrum: 0.8927484091836959
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3568089227192104
+  lightness: 0.2822581303771585
+  saturation: 0.1933156258892268
+  rhythmicContrast: 0.521845648996532
+purpose: []
